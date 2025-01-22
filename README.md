@@ -86,7 +86,7 @@ More projects can be found on my [GitHub Repositories](https://github.com/Hari-K
 ## Let's Connect
 
 - **GitHub**: [Hari-Kec](https://github.com/Hari-Kec)
-- **LinkedIn**: [Hari S](https://www.linkedin.com/in/hari-s-872270259/)
+- **LinkedIn**: [Hari S](https://www.linkedin.com/in/h-a-r-i/)
 - **LeetCode**: [u/22ALR026](https://leetcode.com/u/22ALR026/)
 - **Kaggle**: [Hari S](https://www.kaggle.com/haris2004lskhari)
 
