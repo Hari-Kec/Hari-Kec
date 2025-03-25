@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 🎓 **Education**: B.Tech in AI & ML, **Kongu Engineering College** (Graduating @ 2026)  
-💡 **Interests**: Full Stack Development, Machine Learning  
+💡 **Interests**: Full Stack Development, Artificial Intelligence
 🛠 **Technical Skills**:
 
 ### 💻 Languages:
