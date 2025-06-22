@@ -15,7 +15,7 @@
 
 🎓 **AI & ML Undergrad** @ Kongu Engineering College (2022–2026)  
 💡 **Passionate about** building AI-powered full-stack products  
-🌐 **Loves** solving real world problems , Learning new tech
+🌐 **Loves** solving real world problems and learning new tech
 
 ---
 
