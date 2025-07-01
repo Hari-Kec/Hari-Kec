@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Hari — Full Stack AI Developer</h1>
+<h1 align="center">Hey 👋, I'm Hari — AI Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=435&lines=Passionate+about+Technology;Solving+Real+World+Problems;Researcher" alt="Typing SVG" />
